@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there! 👋
+I'm a Software Engineer who is passionate about learning and exploring the ever-evolving world of technology. I'm always eager to tackle new challenges and strive to stay up-to-date with the latest advancements in the field.
 
-<!--
-**Rappyyy/Rappyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Programming languages: Java, Javascript.
+Frameworks: [TBA]
+Tools: IntelliJ Idea, Visual Studio Code
+Experience
+[Insert any relevant work experience or projects you have worked on.]
 
-Here are some ideas to get you started:
+Education
+Bachelor of Information Technology Graduate.
+Currently Learning at Bloom Institute of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+Apart from coding, I enjoy playing computer and mobile games on my free time.
+
+Let's connect!
+If you're interested in connecting with me and discussing all things tech, feel free to reach out! https://www.linkedin.com/in/ralph-fuentes/, https://www.facebook.com/rhapnex
