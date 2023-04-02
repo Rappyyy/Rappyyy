@@ -3,8 +3,11 @@ I'm a Software Engineer who is passionate about learning and exploring the ever-
 
 Skills
 Programming languages: Java, Javascript.
+
 Frameworks: [TBA]
+
 Tools: IntelliJ Idea, Visual Studio Code
+
 Experience
 [Insert any relevant work experience or projects you have worked on.]
 
