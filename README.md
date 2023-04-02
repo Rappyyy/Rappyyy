@@ -9,7 +9,7 @@ Frameworks: [TBA]
 Tools: IntelliJ Idea, Visual Studio Code
 
 Experience
-[Insert any relevant work experience or projects you have worked on.]
+[TBA]
 
 Education
 Bachelor of Information Technology Graduate.
