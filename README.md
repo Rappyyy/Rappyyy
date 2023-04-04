@@ -4,7 +4,7 @@ I'm a Software Engineer who is passionate about learning and exploring the ever-
 Skills
 Programming languages: Java, Javascript.
 
-Frameworks: Mockito, DynamoDB framework, Spring Boot
+Frameworks: Dagger, Mockito, DynamoDB framework, Spring Boot.
 
 Tools: IntelliJ Idea, Visual Studio Code
 
