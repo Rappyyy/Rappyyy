@@ -4,12 +4,12 @@ I'm a Software Engineer who is passionate about learning and exploring the ever-
 Skills
 Programming languages: Java, Javascript.
 
-Frameworks: [TBA]
+Frameworks: Mockito, DynamoDB framework, Spring Boot
 
 Tools: IntelliJ Idea, Visual Studio Code
 
 Experience
-[TBA]
+Doing real world projects while learning.
 
 Education
 Bachelor of Information Technology Graduate.
