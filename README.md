@@ -1,21 +1,21 @@
 Hi there! 👋
 I'm a Software Engineer who is passionate about learning and exploring the ever-evolving world of technology. I'm always eager to tackle new challenges and strive to stay up-to-date with the latest advancements in the field.
 
-Skills
+Skills :
 Programming languages: Java, Javascript.
 
 Frameworks: Dagger, Mockito, DynamoDB framework, Spring Boot.
 
 Tools: IntelliJ Idea, Visual Studio Code
 
-Experience
+Experience:
 Doing real world projects while learning.
 
-Education
+Education:
 Bachelor of Information Technology Graduate.
 Currently Learning at Bloom Institute of Technology.
 
-Interests
+Interests:
 Apart from coding, I enjoy playing computer and mobile games on my free time.
 
 Let's connect!
