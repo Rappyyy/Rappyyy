@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm a Software Engineer who is passionate about learning and exploring the ever-evolving world of technology. I'm always eager to tackle new challenges and strive to stay up-to-date with the latest advancements in the field.
+I'm a Backend Engineer who is passionate about learning and exploring the ever-evolving world of technology. I'm always eager to tackle new challenges and strive to stay up-to-date with the latest advancements in the field.
 
 Skills :
 Programming languages: Java, Javascript.
