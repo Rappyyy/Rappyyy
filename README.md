@@ -12,10 +12,10 @@ If you're interested in connecting with me and discussing all things tech, feel 
 
 <div style = "display : flex; column-gap : 8px; " >
 
-<img src="Assets/JAVA.png" width = "40" height = "35">
-<img src="Assets/HTML.png" width = "40" height = "35">
 <img src="Assets/CSS.png" width = "40" height = "35">
+<img src="Assets/HTML.png" width = "40" height = "35">
 <img src="Assets/JS.png" width = "40" height = "35">
+<img src="Assets/JAVA.png" width = "50" height = "35">
 <img src="Assets/VSCODE.png" width = "40" height = "35">
 <img src="Assets/POSTMAN.png" width = "40" height = "35">
 <img src="Assets/spring.png" width = "40" height = "35">
