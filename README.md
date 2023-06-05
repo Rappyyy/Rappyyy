@@ -6,7 +6,15 @@ Interests:
 Apart from coding, I enjoy playing computer and mobile games on my free time. 🎮🎮
 
 Languages: 
+<br>
+<img src="Assets/JAVA.png" width = "35" height = "35">
+<img src="Assets/HTML.png" width = "35" height = "35">
 <img src="Assets/CSS.png" width = "35" height = "35">
+<img src="Assets/JS.png" width = "35" height = "35">
+<img src="Assets/VSCODE.png" width = "35" height = "35">
+<img src="Assets/POSTMAN.png" width = "35" height = "35">
+<img src="Assets/spring.png" width = "35" height = "35">
+</br>
 
 Let's connect!
 If you're interested in connecting with me and discussing all things tech, feel free to reach out! https://www.linkedin.com/in/ralph-fuentes/, https://www.facebook.com/rhapnex
