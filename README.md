@@ -18,6 +18,6 @@ If you're interested in connecting with me and discussing all things tech, feel 
 <img src="Assets/JAVA.png" width = "50" height = "35">
 <img src="Assets/VSCODE.png" width = "40" height = "35">
 <img src="Assets/POSTMAN.png" width = "40" height = "35">
-<img src="Assets/spring.png" width = "40" height = "35">
+<img src="Assets/spring.png" width = "50" height = "35">
 
 </div>
