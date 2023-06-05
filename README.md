@@ -5,6 +5,8 @@ I'm a Backend Engineer who is passionate about learning and exploring the ever-e
 Interests:
 Apart from coding, I enjoy playing computer and mobile games on my free time. 🎮🎮
 
-Languages:
+Languages: 
+<img src="Assets/CSS.png" width = "35" height = "35">
+
 Let's connect!
 If you're interested in connecting with me and discussing all things tech, feel free to reach out! https://www.linkedin.com/in/ralph-fuentes/, https://www.facebook.com/rhapnex
