@@ -20,14 +20,32 @@ If you're interested in connecting with me and discussing all things tech, feel 
 ## Tools & Languages: 
 
 <div style = "display : flex; column-gap : 8px; " >
+<a href="https://aws.amazon.com/">
 <img src="Assets/amazon.png" width = "40" height = "35">
+</a>
+<a href="https://github.com/">
 <img src="Assets/git.png" width = "40" height = "35">
+</a>
+<a href="https://www.w3schools.com/css/">
 <img src="Assets/CSS.png" width = "40" height = "35">
+</a>
+<a href="https://www.w3schools.com/html/">
 <img src="Assets/HTML.png" width = "40" height = "35">
+</a>
+<a href="https://www.w3schools.com/js/">
 <img src="Assets/JS.png" width = "40" height = "35">
+</a>
+<a href="https://www.java.com/en/">
 <img src="Assets/JAVA.png" width = "50" height = "35">
+</a>
+<a href="https://code.visualstudio.com/">
 <img src="Assets/VSCODE.png" width = "40" height = "35">
+</a>
+<a href="https://www.postman.com/">
 <img src="Assets/POSTMAN.png" width = "40" height = "35">
+</a>
+<a href="https://start.spring.io/">
 <img src="Assets/spring.png" width = "40" height = "35">
+</a>
 
 </div>
