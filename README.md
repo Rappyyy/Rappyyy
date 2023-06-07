@@ -6,7 +6,14 @@ Interests:
 Apart from coding, I enjoy playing computer and mobile games on my free time. 🎮🎮
 
 Let's connect!
-If you're interested in connecting with me and discussing all things tech, feel free to reach out! https://www.linkedin.com/in/ralph-fuentes/, https://www.facebook.com/rhapnex
+If you're interested in connecting with me and discussing all things tech, feel free to reach out! 
+<a href="https://www.linkedin.com/in/ralph-fuentes/">
+  <img src="Assets/linkedin.png" width="40" height="35" alt="LinkedIn">
+</a>
+<a href = "https://www.facebook.com/rhapnex">
+    <img src="Assets/facebook.png" width="40" height="35" alt="Facebook">
+</a>
+
 
 ## Tools & Languages: 
 
