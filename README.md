@@ -1,5 +1,9 @@
 ## Hi there! 👋
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Rappyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Rappyyy" /> 
+</p>
+
 I'm a Backend Engineer who is passionate about learning and exploring the ever-evolving world of technology. I'm always eager to tackle new challenges and strive to stay up-to-date with the latest advancements in the field.
 
 Interests:
